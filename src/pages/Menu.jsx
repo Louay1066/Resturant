@@ -98,7 +98,7 @@ const menuData = {
             name: 'Cannoli Siciliani',
             price: '$12',
             desc: 'Crispy shells filled with sweet ricotta and chocolate chips.',
-            image: '/cannoli.png'
+            image: '/cannoli_siciliani.png'
         },
         {
             name: 'Affogato',
