@@ -8,7 +8,7 @@ import Servers from './pages/Servers';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Resturant">
       <div className="app-container">
         <Header />
         <main>
